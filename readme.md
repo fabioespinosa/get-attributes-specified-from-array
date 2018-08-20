@@ -11,7 +11,7 @@ $ npm install get-attributes-specified-from-array
 ## Usage
 
 ```js
-const getAttributesSpecifiedFromArray = require('get-attributes-specified-from-array);
+const getAttributesSpecifiedFromArray = require('get-attributes-specified-from-array');
 appendToAllAttributes({
     id: '321393',
     l1_key: 'collissions',
