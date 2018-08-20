@@ -1,0 +1,18 @@
+{
+    "name": "get-attributes-specified-from-array",
+    "version": "1.0.0",
+    "description": "Return a copy of the object with the attributes specified in an array only",
+    "main": "index.js",
+    "scripts": {
+        "test": "ava"
+    },
+    "author": "Fabio Espinosa",
+    "license": "MIT",
+    "devDependencies": {
+        "ava": "^0.25.0"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/fabioespinosa/get-attributes-specified-from-array"
+    }
+}
