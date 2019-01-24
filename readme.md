@@ -12,7 +12,7 @@ $ npm install get-attributes-specified-from-array
 
 ```js
 const getAttributesSpecifiedFromArray = require('get-attributes-specified-from-array');
-appendToAllAttributes({
+getAttributesSpecifiedFromArray({
     id: '321393',
     l1_key: 'collissions',
     duration: 3390,
